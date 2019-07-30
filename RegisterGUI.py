@@ -190,3 +190,4 @@ if __name__ == "__main__":
     RegisterWindow.show()
     sys.exit(app.exec_())
 
+

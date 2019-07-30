@@ -330,6 +330,7 @@ class Ui_ExamWindow(object):
         self.Label_ChoicesOrange.setStyleSheet("color: blue;")
         self.Label_ChoicesApple.setStyleSheet("color: blue;")
 
+
         self.Label_QuizStatus.setStyleSheet("color: blue;")
 
         self.Label_Picture.hide()
